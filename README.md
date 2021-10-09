@@ -60,7 +60,7 @@ This repository contains all of the code required **NOTE** you may need to downl
 * You can move the cursor using just index finger(by pointing it towards the camera and moving it accordingly). 
 <div align="centre">
   <a href="https://github.com/acm-iem/VirtualMouse">
-    <img src="https://github.com/acm-iem/Dseized-Bot/blob/master/data/About%20the%20project.png" alt="preview" width="1280">
+    <img src="images/virtualmouse1.png" alt="preview" width="720">
   </a>
   <br>
   <br>
@@ -70,7 +70,7 @@ This repository contains all of the code required **NOTE** you may need to downl
 * You can select any file or folder using your middle and index finger together(As the distance between two fingers comes in short range,the cursor selects that particular thing).
 <div align="centre">
   <a href="https://github.com/acm-iem/VirtualMouse">
-    <img src="https://github.com/acm-iem/Dseized-Bot/blob/master/data/About%20the%20project.png" alt="preview" width="1280">
+    <img src="/images/Virtuak%20mouse2.png" alt="preview" width="720">
   </a>
   <br>
   <br>
