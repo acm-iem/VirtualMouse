@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/acm-iem/VirtualMouse">
-    <img src="https://github.com/acm-iem/Dseized-Bot/blob/master/data/Deseized%20Logo%20V2%20Transparent-01.png" alt="Logo">
+    <img src="https://www.clipartmax.com/png/middle/76-760532_virtual-business-services-computer-mouse-flat-icon.png" width="20%" alt="Logo">
   </a>
 
   <h3 align="center">Virtual Mouse</h3>
