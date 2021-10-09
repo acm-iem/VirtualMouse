@@ -17,7 +17,7 @@
     <a href="https://github.com/acm-iem/VirtualMouse"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/acm-iem/Dseized-Bot">View Demo</a> 
+    <a href="https://github.com/acm-iem/VirtualMouse">View Demo</a> 
     ·
     <a href="https://github.com/acm-iem/VirtualMouse/issues">Report Bug</a>
     ·
